@@ -1,3 +1,3 @@
-username = "2019502094@ogr.deu.edu.tr"
-password = "Yusuf3549"
+username = "username"
+password = "password"
 
